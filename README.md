@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Rafaelle
+Meu nome é Rafaelle librelon
 
 - Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
